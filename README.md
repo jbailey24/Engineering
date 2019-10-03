@@ -1,2 +1,2 @@
 # Intermediate_Arduino
-My code for the intermediate arduino assignments
+Code for the intermediate arduino assignments

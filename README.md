@@ -1,18 +1,18 @@
-## Intermediate_Arduino
+# Intermediate_Arduino
 Code for the intermediate arduino assignments
 
 
-# Dim_Blink_Arduino_Final
+## Dim_Blink_Arduino_Final
 Makes LED fade in and out
 
-# Motorthing
+## Motorthing
 Runs motor and prints value
 
-# Photointerupter
+## Photointerupter
 Runs photointerupter 
 
-# Simple_LCD
+## Simple_LCD
 Runs LCD using a LCD backpack
 
-# Unknown_Code
+## Unknown_Code
 Runs ultrasonic sensor

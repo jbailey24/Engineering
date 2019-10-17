@@ -12,7 +12,7 @@ Makes LED fade in and out
 
 ## Photointerupter
 Runs photointerupter 
-![Fritzing - credit to Alden for making it](https://github.com/adent11/Intermediate-Arduino/raw/master/FritzingDiagrams/PhotointerrupterScreenshot.PNG)
+![Fritzing - credit to Alden for making it](https://github.com/adent11/Intermediate-Arduino/raw/master/FritzingDiagrams/PhotointerrupterScreenshot.PNG|width=500)
 
 
 ## Unknown_Code

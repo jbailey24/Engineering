@@ -12,9 +12,8 @@ Makes LED fade in and out
 
 ## Photointerupter
 Runs photointerupter 
-
-## Simple_LCD
-Runs LCD using a LCD backpack
+<img src="https://github.com/adent11/Intermediate-Arduino/raw/master/FritzingDiagrams/PhotointerrupterScreenshot.PNG
+" width="500">
 
 ## Unknown_Code
 Runs ultrasonic sensor

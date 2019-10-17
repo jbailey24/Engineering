@@ -12,8 +12,7 @@ Makes LED fade in and out
 
 ## Photointerupter
 Runs photointerupter 
-![Fritzing - credit to Alden for making it](https://github.com/adent11/Intermediate-Arduino/raw/master/FritzingDiagrams/PhotointerrupterScreenshot.PNG|width=500)
-
+![Fritzing - credit to Alden for making it](http://www.simpleimageresizer.com/_uploads/photos/af29b0fe/PhotointerrupterFritzingPhoto_500x.png)
 
 ## Unknown_Code
 Runs ultrasonic sensor

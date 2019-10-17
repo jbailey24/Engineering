@@ -3,7 +3,7 @@ Code for the intermediate arduino assignments
 
 
 ## Dim_Blink_Arduino_Final
-Makes LED fade in and out
+
 ![Fritzing](https://lh4.googleusercontent.com/VyYsSpQVFV5lq3E5uMvh6WeT_I-1H-K253D-y3iZgKn-f4LMUiYBeKinh-AxB-0ulGvD5GytFgwTRWDS4j3oFwU9GdvWWBJe65wk2sYVNOebog-O6Mhhzfr-y21jDQaj4QwFvASK)
 
 ## Motorthing
@@ -11,7 +11,7 @@ Makes LED fade in and out
 
 
 ## Photointerupter
-Runs photointerupter 
+
 ![Fritzing - credit to Alden for making it](http://www.simpleimageresizer.com/_uploads/photos/af29b0fe/PhotointerrupterFritzingPhoto_500x.png)
 
 ## Unknown_Code

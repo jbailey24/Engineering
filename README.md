@@ -13,3 +13,6 @@ Code for the intermediate arduino assignments
 ## Photointerupter
 
 ![Fritzing - credit to Alden for making it](http://www.simpleimageresizer.com/_uploads/photos/af29b0fe/PhotointerrupterFritzingPhoto_500x.png)
+
+
+## Ultrasonic Sensor

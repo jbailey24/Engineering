@@ -1,3 +1,5 @@
+. <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">Intermediate Arduino</marquee>
+
 # Intermediate_Arduino
 Code for the intermediate arduino assignments
 

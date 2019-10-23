@@ -8,7 +8,7 @@
 
 ## Motorthing
 
-<img src="https://lh6.googleusercontent.com/UGlLkgDUgstSq67wpqyoH6s_loZ2bZHwNGzGIVSclkvCtT_Of2Swx6o6SWGV5KTDBlgHuBvj4ngCBrqHnqObLEFym85EYExYgsofGMi8" width="500">
+<img src="https://lh6.googleusercontent.com/UGlLkgDUgstSq67wpqyoH6s_loZ2bZHwNGzGIVSclkvCtT_Of2Swx6o6SWGV5KTDBlgHuBvj4ngCBrqHnqObLEFym85EYExYgsofGMi8" alt="Credit to adent11 for the Fritzing" width="500">
 
 
 ## Photointerupter

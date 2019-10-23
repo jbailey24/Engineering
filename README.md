@@ -8,12 +8,12 @@
 
 ## Motorthing
 
-<img src="https://lh6.googleusercontent.com/UGlLkgDUgstSq67wpqyoH6s_loZ2bZHwNGzGIVSclkvCtT_Of2Swx6o6SWGV5KTDBlgHuBvj4ngCBrqHnqObLEFym85EYExYgsofGMi8" alt="Credit to adent11 for the Fritzing" width="500">
+<img src="https://github.com/adent11/Intermediate-Arduino/raw/master/FritzingDiagrams/Motor_ControlScreenshot.PNG" width="500">
 
 
 ## Photointerupter
 
-![Fritzing - credit to Alden for making it](http://www.simpleimageresizer.com/_uploads/photos/af29b0fe/PhotointerrupterFritzingPhoto_500x.png)
+(http://www.simpleimageresizer.com/_uploads/photos/af29b0fe/PhotointerrupterFritzingPhoto_500x.png)
 
 
 ## Ultrasonic Sensor

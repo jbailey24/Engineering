@@ -1,7 +1,5 @@
 
-
-#Intermediate Arduino
-Code for the intermediate arduino assignments
+#Intermediate_Arduino
 
 
 ## Dim_Blink_Arduino_Final

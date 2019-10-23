@@ -1,7 +1,7 @@
 //sets motor to the speed of the potentiometer
 
 int motor = 3;
-int SpinnySpinSpin = A1;   //SpinnySpinSpin is the PotPin
+int SpinnySpinSpin = A0;   //SpinnySpinSpin is the PotPin
 
 void setup()
 {

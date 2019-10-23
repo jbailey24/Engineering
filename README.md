@@ -1,12 +1,14 @@
-<center>
+
 
 #Intermediate_Arduino
 Code for the intermediate arduino assignments
 
 
 ## Dim_Blink_Arduino_Final
+<center>
+
 <img src="https://raw.githubusercontent.com/adent11/Intermediate-Arduino/master/FritzingDiagrams/LED_Blink_RevisitedScreenshot.PNG" alt="Credit to adent11 for the Fritzing" width="500">
-  
+</center>  
 
 ## Motorthing
 
@@ -20,4 +22,3 @@ Code for the intermediate arduino assignments
 
 ## Ultrasonic Sensor
 
-</center>

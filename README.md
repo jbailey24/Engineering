@@ -8,9 +8,19 @@
 
 ## Hello LCD Screen
 
+<img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/Hello_LCDScreenshot.PNG?raw=true" alt="Credit to adent11 for the Fritzing" width="500">
+
+
+
 ## Intermediate Potentiometer
 
+<img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/PotentiometersScreenshot.PNG?raw=true" alt="Credit to adent11 for the Fritzing" width="500">
+
+
 ## LCD Backback
+
+<img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/LCD_BackpackScreenshot.PNG?raw=true" alt="Credit to adent11 for the Fritzing" width="500">
+
 
 ## Motorthing
 
@@ -24,4 +34,6 @@
 
 
 ## Ultrasonic Sensor
+
+<img src="" alt="Credit to adent11 for the Fritzing" width="500">
 

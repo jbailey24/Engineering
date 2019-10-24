@@ -6,6 +6,12 @@
 
 <img src="https://raw.githubusercontent.com/adent11/Intermediate-Arduino/master/FritzingDiagrams/LED_Blink_RevisitedScreenshot.PNG" alt="Credit to adent11 for the Fritzing" width="500">
 
+## Hello LCD Screen
+
+## Intermediate Potentiometer
+
+## LCD Backback
+
 ## Motorthing
 
 <img src="https://github.com/adent11/Intermediate-Arduino/raw/master/FritzingDiagrams/Motor_ControlScreenshot.PNG" width="500">

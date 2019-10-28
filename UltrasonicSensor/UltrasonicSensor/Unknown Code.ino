@@ -1,7 +1,7 @@
 #include <Servo.h>
 
-int trigPin = 9;		//Ultrasonic Pins
-int echoPin = 10;
+int trigPin = 3;		//Ultrasonic Pins
+int echoPin = 2;
 int ServoPin = 7;
 int val;
 

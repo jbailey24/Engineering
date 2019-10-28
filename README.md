@@ -35,5 +35,5 @@
 
 ## Ultrasonic Sensor
 
-<img src="" alt="Credit to adent11 for the Fritzing" width="500">
+<img src="https://raw.githubusercontent.com/adent11/Not-So-Basic-Arduino/master/FritzingDiagrams/Hello_FunctionsScreenshot.PNG" alt="Credit to adent11 for the Fritzing" width="500">
 

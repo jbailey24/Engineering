@@ -9,6 +9,9 @@
 
 <img src="https://raw.githubusercontent.com/adent11/Intermediate-Arduino/master/FritzingDiagrams/LED_Blink_RevisitedScreenshot.PNG" alt="Credit to adent11 for the Fritzing" width="400">
 
+In this assignment, I made a LED fade in and out. The brightness is printed to the serial monitor using the "\_" character, so that a low value might read "*\__*", whereas a high value might read "*\____________________*". The result is a wave that goes in and out with the brightness of the LED.   
+
+The most challenging thing about this assignment was finding a quick way to code the bar graph. You could make a bunch of if statements that each print out a certain number of "\_"s given the range, but that would be very tedious. Instead, I used a for statement, which repeatedly added a "\_" the number of times of the LED brightness divided by 10 and then moved on to the next line when the variable reached 0.
 
 ## Hello LCD Screen
 

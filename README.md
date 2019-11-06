@@ -20,6 +20,8 @@ The most challenging thing about this assignment was finding a quick way to code
 
 <img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/Hello_LCDScreenshot.PNG?raw=true" alt="Credit to adent11 for the Fritzing" width="400">
 
+In this assignment, I used an LCD to print "hello world" and the number of seconds
+
 
 ## Intermediate Potentiometer
 

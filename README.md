@@ -20,8 +20,9 @@ The most challenging thing about this assignment was finding a quick way to code
 
 <img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/Hello_LCDScreenshot.PNG?raw=true" alt="Credit to adent11 for the Fritzing" width="400">
 
-In this assignment, I used an LCD to print "hello world" and the number of seconds
+In this assignment, I printed "hello world" and the number of seconds since the program began on an LCD.
 
+I found that the coding was very simple, but I was a little bit daunted by the number of wires (12) that had to be attached to the LCD. By staying organized, I found that the wiring was not that difficult in the end.
 
 ## Intermediate Potentiometer
 

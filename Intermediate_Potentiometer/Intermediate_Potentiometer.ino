@@ -2,8 +2,8 @@
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-int SpinnySpinSpin = A1;  //The potPin
-int ledPin = 7;
+int SpinnySpinSpin = A3;  //The potPin
+int ledPin = 5;
 
 void setup()
 {
@@ -20,8 +20,12 @@ void loop()
 {
 	lcd.setCursor(0,1);		//setting cursor to second line of the LCD screen
 
+	int ledlit = analogRead(SpinnySpinSpin)/4;   //dividing potPin value by 4 to set the LED to that value
+	int roundledlit = round(ledlit);             //rounding
+	analogWrite(ledPin,roundledlit);
+	
 	int lit = analogRead(SpinnySpinSpin)/100;  //dividing potPin value by 100
-	int roundlit = round(lit);    //Rounding number so that they will be whole numbers
+	int roundlit = round(lit);    //rounding number so that they will be whole numbers
 	lcd.print(roundlit); 		
 	lcd.print("    ");	
 

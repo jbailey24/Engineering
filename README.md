@@ -19,7 +19,7 @@ The most challenging thing about this assignment was finding a quick way to code
 
 <a href="https://github.com/jbailey24/Intermediate-Arduino/blob/master/Hello_LCD_Screen/Hello_LCD_Screen.ino">Link to File</a> <br/>
 
-<img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/Hello_LCDScreenshot.PNG?raw=true" alt="Credit to adent11 for the Fritzing" width="400">
+<img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/Hello_LCDScreenshot.PNG?raw=true" alt="Credit to adent11 for the Fritzing" width="400"> 
 
 In this assignment, I printed "hello world" and the number of seconds since the program began on an LCD.
 
@@ -80,6 +80,11 @@ While the coding was very basic, I found the wiring to be tricky. I had to solde
 <img src="https://raw.githubusercontent.com/adent11/Not-So-Basic-Arduino/master/FritzingDiagrams/Hello_FunctionsScreenshot.PNG" alt="Credit to adent11 for the Fritzing" width="400">
 
 This assignment was from last year, but I wanted to add it anyways. In this assignment, I turned a servo using an ultrasonic sensor. The ultrasonic sensor would send out a signal, the signal would bounce off of an object and return to the sensor. Using the time it took for the signal to return, I calculated the distance of the object from the sensor, and then rotated the servo accordingly.
+
+
+
+
+###### All Fritzings except Motor Control by adent11
 
     
 

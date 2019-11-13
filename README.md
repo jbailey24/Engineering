@@ -84,7 +84,7 @@ This assignment was from last year, but I wanted to add it anyways. In this assi
 
 
 
-###### All Fritzings except Motor Control by adent11
+###### All Fritzings except Motor Control by <a href="https://github.com/adent11">adent11</a>
 
     
 
